@@ -1,7 +1,7 @@
 # Japanese Temple Diorama
 This project was made completely using Three.js and all models were downloaded from SketchFab with little modifications regarding textures size and source.
 
-## Team Members
+## Contributors
 ### 1. Aaron Linggo Satria - 220116898
 Worked on: Lighting, Shadows, Camera, Toggle Menu, Fog, and Animations.
 
