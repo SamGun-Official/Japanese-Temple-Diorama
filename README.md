@@ -9,4 +9,4 @@ Worked on: Lighting, Shadows, Camera, Toggle Menu, Fog, and Animations.
 Worked on Objects, InstancedMesh, Shadows, Textures, Text, Toggle Menu (Instancing Behavior), Design + Overlays, and Code Optimization.
 
 ## GitHub Pages
-Preview Link: https://aaronlinggo.github.io/Project-GrafKom/
+Link: https://aaronlinggo.github.io/Project-GrafKom/
